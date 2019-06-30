@@ -1,4 +1,4 @@
-# doublestaff-pov-arduino
+# doublestaff_pov_arduino
 
 You'd be feeling good that you spent
 little money but entertained yourself !!!!
