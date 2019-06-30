@@ -13,7 +13,7 @@ Not just for ledstaff, it can be use in car, motorcycle, home, laptop, sound…
 
 #jumpwire  NT. 40*1
 
-#Rechargeable Battery() NT. 170*4  
+#Rechargeable Battery(9v) NT. 170*4  
 
 total----> NT. 1500
 
