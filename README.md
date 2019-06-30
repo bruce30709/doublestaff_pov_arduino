@@ -9,11 +9,11 @@ Not just for ledstaff, it can be use in car, motorcycle, home, laptop, sound…
 
 #tiny85                      NT. 70*4
 
-#ws2812b                     NT. 220/m *2
+#ws2812b                      NT. 220/m *2
 
-#jumpwire                    NT. 40*1
+#jumpwire                     NT. 40*1
 
-#23a                 +       NT. 7*4
+#23a                    +       NT. 7*4
 
                             ------------------------------
                             
