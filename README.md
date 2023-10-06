@@ -1,23 +1,18 @@
-# doublestaff_pov_arduino
+# Doublestaff POV Arduino
 
-You'd be feeling good that you spent
-little money but entertained yourself !!!!
+Feeling great about this cost-effective entertainment solution!
 
-Not just for ledstaff, it can be use in car, motorcycle, home, laptop, sound…
+Whether it's for an LED staff, car, motorcycle, home, laptop, or sound system, this setup is versatile and fun.
 
-↓NOT INCLUDE PIPES !!
+**Components (Not Including Pipes):**
 
-#tiny85 NT. 70*4
+- Tiny85: NT. 70 * 4
+- WS2812B LEDs: NT. 220/m * 2
+- Jumpwire: NT. 40 * 1
+- Rechargeable Battery (9v): NT. 170 * 4  
 
-#ws2812b NT. 220/m *2
+**Total Cost: NT. 1500**
 
-#jumpwire  NT. 40*1
+Despite my initial failure, ended up spending NT 2000.
 
-#Rechargeable Battery(9v) NT. 170*4  
-
-total----> NT. 1500
-
-But with my failure........>>NT 2000  
-
-so sad!!
-Just for sharing!! No criticism!!
+A bit disappointing, but all in the spirit of sharing! No criticism here, just lessons learned!
